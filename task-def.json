@@ -1,6 +1,3 @@
-// 20200223222524
-// https://raw.githubusercontent.com/srinin01/FargateActionDemo/master/task-def.json
-
 {
   "family": "sample-fargate",
   "networkMode": "awsvpc",
@@ -31,5 +28,4 @@
   "cpu": "256",
   "memory": "512",
   "taskRoleArn": "arn:aws:iam::123151523246:role/ecsTaskExecutionRole"
-
 }
